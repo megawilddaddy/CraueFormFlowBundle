@@ -1,5 +1,5 @@
 {
-	"name": "craue/formflow-bundle",
+	"name": "megawilddaddy/formflow-bundle",
 	"type": "symfony-bundle",
 	"description": "Multi-step forms for your Symfony project.",
 	"keywords": ["form", "wizard", "step", "symfony"],
